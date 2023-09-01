@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Seminar\Dz_z6\bin\Debug\net6.0\Dz_z6.exe
+C:\Users\1\Desktop\Seminar\Dz_z6\bin\Debug\net6.0\Dz_z6.deps.json
+C:\Users\1\Desktop\Seminar\Dz_z6\bin\Debug\net6.0\Dz_z6.runtimeconfig.json
+C:\Users\1\Desktop\Seminar\Dz_z6\bin\Debug\net6.0\Dz_z6.dll
+C:\Users\1\Desktop\Seminar\Dz_z6\bin\Debug\net6.0\Dz_z6.pdb
+C:\Users\1\Desktop\Seminar\Dz_z6\obj\Debug\net6.0\Dz_z6.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Seminar\Dz_z6\obj\Debug\net6.0\Dz_z6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Seminar\Dz_z6\obj\Debug\net6.0\Dz_z6.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Seminar\Dz_z6\obj\Debug\net6.0\Dz_z6.AssemblyInfo.cs
+C:\Users\1\Desktop\Seminar\Dz_z6\obj\Debug\net6.0\Dz_z6.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Seminar\Dz_z6\obj\Debug\net6.0\Dz_z6.dll
+C:\Users\1\Desktop\Seminar\Dz_z6\obj\Debug\net6.0\refint\Dz_z6.dll
+C:\Users\1\Desktop\Seminar\Dz_z6\obj\Debug\net6.0\Dz_z6.pdb
+C:\Users\1\Desktop\Seminar\Dz_z6\obj\Debug\net6.0\Dz_z6.genruntimeconfig.cache
+C:\Users\1\Desktop\Seminar\Dz_z6\obj\Debug\net6.0\ref\Dz_z6.dll
