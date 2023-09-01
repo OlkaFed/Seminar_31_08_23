@@ -13,9 +13,11 @@ int num2 = int.Parse(strNum2);
 
 if (num1 > num2)
 {
-System.Console.WriteLine("Первое число больше");
+System.Console.Write("MAX = ");
+System.Console.WriteLine(num1);
 }
 else
 {
-    System.Console.WriteLine("Второе число больше");
+    System.Console.Write("MAX = ");
+    System.Console.WriteLine(num2);
 }
